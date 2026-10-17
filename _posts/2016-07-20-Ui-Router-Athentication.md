@@ -4,7 +4,7 @@ tags: [angular, router, ui-router, authentication, redirect, states, stateChange
 title: Securing UI-Router States with Simple Authentication
 author: emir_osmanoski
 comments: true
-image: /images/2016-07-20-Ui-Router-State-Secure/00_header.png
+thumbnail-img: /images/2016-07-20-Ui-Router-State-Secure/00_header.png
 ---
 
 
@@ -307,7 +307,7 @@ correct state. We'll see this in the next section.
 
 As an example this is how  the url would look like for one of these redirects:
 
-![Redirect Url!]({{ site.baseurl }}/images/2016-07-20-Ui-Router-State-Secure/01_Previous.png)
+![Redirect Url!]({{ site.baseurl }}/images/2016-07-20-Ui-Router-State-Secure/01_prev.png)
 
 # Login controller
 

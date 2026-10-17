@@ -4,7 +4,7 @@ tags: [games, development, javascript, engine, 2d, shooter, space]
 title: The JavasScript Space Shooter Game from 2013!
 author: emir_osmanoski
 comments: true
-image: /images/2017-11-26-Space/Space.png
+thumbnail-img: /images/2017-11-26-Space/Space.png
 ---
 
 

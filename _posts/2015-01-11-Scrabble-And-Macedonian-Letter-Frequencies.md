@@ -4,7 +4,7 @@ tags: [letter, frequencies, macedonian, фреквенција, букви, ма
 title: Scrabble and Macedonian Letter Frequencies
 author: emir_osmanoski
 comments: true
-image: /images/2015-01-11-Macedonian-Letter-Frequencies/head.jpg
+thumbnail-img: /images/2015-01-11-Macedonian-Letter-Frequencies/head.jpg
 ---
 
 
