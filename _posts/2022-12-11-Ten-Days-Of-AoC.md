@@ -5,10 +5,10 @@ title: Advent of Code - First 10 Days - Impressions
 author: emir_osmanoski
 comments: true
 published: true
-image: /images/2022-12-11-Ten-Days-Of-AoC/000_Logo.png
+thumbnail-img: /images/2022-12-11-Ten-Days-Of-AoC/000_Logo.png
 cover-img: /images/2022-12-11-Ten-Days-Of-AoC/00_Dotnet6Logo.png
 share-img: /images/2022-12-11-Ten-Days-Of-AoC/000_Logo.png
-meta-description: Advent of Code - First 10 Days - My Experience
+share-description: Advent of Code - First 10 Days - My Experience
 ---
 
 Advent of Code (AoC) is a once a year coding challenge that consists of 25 puzzles

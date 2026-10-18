@@ -4,10 +4,10 @@ tags: [.net, roslyn, refactoring, fix, code action, syntax tree, semantic, provi
 title: Adventures with Roslyn .NET, Part 3 (Final) - The Fix Provider
 author: emir_osmanoski
 comments: true
-image: /images/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/00_logo.png
+thumbnail-img: /images/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/00_logo.png
 cover-img: /images/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/000_header.jpg
 share-img: /images/2020-11-16-Roslyn-Syntax-Analyzer-Part-3/00_logo.png
-meta-description: Overview of a simple Roslyn Fix Provider.
+share-description: Overview of a simple Roslyn Fix Provider.
 ---
 
 Welcome to the final part of our Roslyn Adventure where we will cover the

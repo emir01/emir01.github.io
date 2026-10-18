@@ -4,7 +4,7 @@ tags: [angular, gulp, web, api, front, end, web, catalogue, e-commerce, demo, sy
 title: So, I've been building something for the past 2 years...
 author: emir_osmanoski
 comments: true
-image: /images/2017-02-03-So-I-Built-A-Thing/00_header.png
+thumbnail-img: /images/2017-02-03-So-I-Built-A-Thing/00_header.png
 ---
 
 
@@ -120,7 +120,7 @@ stuff.
 > focus on doing things 100% right instead of doing them quickly and producing
 > results as soon as possible. I remember having spent a bunch of time
 > thinking about unit tests and different ways to produce tests for different
-> aspects of the data access layer. I even wrote a [blog post about it](http://blog.emirosmanoski.mk/Unit-Testing-Database-Context/). It was a
+> aspects of the data access layer. I even wrote a [blog post about it](https://blog.emirosmanoski.mk/2014-12-18-Unit-Testing-Database-Context/). It was a
 > good thing I realized that wasn’t the correct approach and I quickly changed
 > my ways and focused on producing features that can be visible and bring
 > value to the entire system. I’m not saying you should never start projects
@@ -326,7 +326,7 @@ used between the web API and the Logic layer.
 
 * Configuration
 
-  Contains all the [Entity Type Configuration](http://blog.emirosmanoski.mk/Entity-Type-Configuration-Many-To-Many-Relations/) objects for
+  Contains all the [Entity Type Configuration](https://blog.emirosmanoski.mk/2014-12-23-Entity-Type-Configuration-Many-To-Many-Relations/) objects for
   entities in the domain. Entity Type Configurations are used to customize the
   way EF creates the database from the Code First Model. For example you can
   rename/configure how M:N relationships are mapped.
@@ -453,7 +453,7 @@ components as well as some interesting features and tooling. To name a few:
 
 Implemented a full build stream using Gulp to produce a optimized version
 of the application. This was a more recent experiment which produced a [blog
-post](http://blog.emirosmanoski.mk/How-I-Stopped-worying-and-learned-to-love-the-Gulp/) and is one of my fondest achievements in the project.
+post](https://blog.emirosmanoski.mk/2016-11-30-How-I-Stopped-worying-and-learned-to-love-the-Gulp/) and is one of my fondest achievements in the project.
 
 ---
 
@@ -491,9 +491,9 @@ me quite an insight into angular directives.
 As it can be seen the front-end proved to be quite productive in terms of
 content for this blog. You can see the full list of posts here:
 
-1. [How I stopped worrying and learned to love the Gulp!](http://blog.emirosmanoski.mk/How-I-Stopped-worying-and-learned-to-love-the-Gulp/)
-2. [Securing UI-Router States with Simple Authentication](http://blog.emirosmanoski.mk/Ui-Router-Athentication/)
-3. [Angular Hierarchy Data Directive](http://blog.emirosmanoski.mk/Angular-Tree-Data-Directive/)
+1. [How I stopped worrying and learned to love the Gulp!](https://blog.emirosmanoski.mk/2016-11-30-How-I-Stopped-worying-and-learned-to-love-the-Gulp/)
+2. [Securing UI-Router States with Simple Authentication](https://blog.emirosmanoski.mk/2016-07-20-Ui-Router-Athentication/)
+3. [Angular Hierarchy Data Directive](https://blog.emirosmanoski.mk/2016-01-24-Angular-Tree-Data-Directive/)
 
 ---
 

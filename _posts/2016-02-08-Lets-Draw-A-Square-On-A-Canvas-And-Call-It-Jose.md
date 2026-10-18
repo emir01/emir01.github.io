@@ -4,7 +4,7 @@ tags: [javascript, game, development, canvas, story]
 title: Meet José! The Javascript Polygon!
 author: emir_osmanoski
 comments: true
-image: /images/2016-02-08-Drawing-Rectangle/00_Header.png
+thumbnail-img: /images/2016-02-08-Drawing-Rectangle/00_Header.png
 ---
 
 

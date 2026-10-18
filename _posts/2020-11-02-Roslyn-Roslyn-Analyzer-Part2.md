@@ -4,10 +4,10 @@ tags: [.net, roslyn, refactoring, analysis, analyzer, syntax tree, semantic, sym
 title: Adventures with Roslyn .NET, Part 2 - Analyzer
 author: emir_osmanoski
 comments: true
-image: /images/2020-11-02-Roslyn-Syntax-Analyzer-Part-2/00_logo.png
+thumbnail-img: /images/2020-11-02-Roslyn-Syntax-Analyzer-Part-2/00_logo.png
 cover-img: /images/2020-11-02-Roslyn-Syntax-Analyzer-Part-2/000_analysis_cover.png
 share-img: /images/2020-11-02-Roslyn-Syntax-Analyzer-Part-2/00_logo.png
-meta-description: An introduction to a basic Analyzer for the Multiple Method call Invocation
+share-description: An introduction to a basic Analyzer for the Multiple Method call Invocation
 ---
 
 The [previous](https://blog.emirosmanoski.mk/2020-06-11-Roslyn-Syntax-Analyzer-Multiple-Method-Calls/) part of this series served as an introduction to both Roslyn in

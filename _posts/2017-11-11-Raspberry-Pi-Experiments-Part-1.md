@@ -4,7 +4,7 @@ tags: [raspberry, pi, sense, hat, led, typescript, node, javascript, hardware]
 title: Raspberry PI Experiments - Part 1
 author: emir_osmanoski
 comments: true
-image: /images/2017-11-11-Raspberry-Pi-Pt1/LED.jpg
+thumbnail-img: /images/2017-11-11-Raspberry-Pi-Pt1/LED.jpg
 ---
 
 
