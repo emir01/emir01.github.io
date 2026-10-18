@@ -10,7 +10,7 @@ thumbnail-img: /images/2016-11-30-How-I-Stopped-worying-and-learned-to-love-the-
 # Introduction
 
 This post will cover the workflow and process of starting from scratch,
-scratch! and creating a [Gulp](http://gulpjs.com/) build  chain for my main
+scratch! and creating a [Gulp](https://gulpjs.com/) build  chain for my main
 hobby project! Gulp you say?! That is so {insert year < 2016 here!}!
 
 Well, hold on a minute! There are several reasons I did what I did...

@@ -143,7 +143,7 @@ public static T TimeStampUpdate<T>(this T entity, string updatedBy = null) where
 }	
 ```
 
-By using the [base class generic type parameter constraint](http://msdn.microsoft.com/en-us/library/d5x73970.aspx) and setting it to
+By using the [base class generic type parameter constraint](https://msdn.microsoft.com/en-us/library/d5x73970.aspx) and setting it to
 Entity for T we have access to the metadata information on the T entity
 object. We can also go and use the C# language (this on first parameter which
 is the extended type) format for specifying an extension method using the

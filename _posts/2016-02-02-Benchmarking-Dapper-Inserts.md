@@ -449,7 +449,7 @@ middle aproach of using a single Execute is slightly faster, with the
 difference being the single *sp_reset_connection* call.
 
 Doing a bit of research on *sp_reset_connection* I came across this [Stack
-Overflow Answer](http://stackoverflow.com/a/2924456) which lists all the sub
+Overflow Answer](https://stackoverflow.com/a/2924456) which lists all the sub
 tasks performed by the stored procedure which explains the time differences.
 
 At the end only one *sp_reset_connection* and a single Insert with all the

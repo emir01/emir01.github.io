@@ -282,6 +282,10 @@ I hope some people might find this interesting. Even though this first initial
 post might seem very familiar and boring I promise things are going to get
 move exciting once we start moving stuff around the screen!
 
-# The Code and the Demo! 
+# The Code
 
-The Code can be found at the following [GitHub repository](https://github.com/emir01/jsworld), under Part 1,  and the example world can be found [here!](http://jsworld.students.mk/Part%201/index.html)
+The Code can be found at the following [GitHub repository](https://github.com/emir01/jsworld), under Part 1.
+
+> **Update:** The live demo of the example world used to be hosted at
+> jsworld.students.mk, but that site is no longer online. The code in the
+> repository is still there if you want to run the example yourself.

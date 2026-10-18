@@ -3,7 +3,7 @@ layout: post
 tags: [angular, promise, javascript, queue, actions, chaining, $q, concurrency, async, ui]
 title: The curious case of the concurrency conundrum
 author: emir_osmanoski
-headerimage: /images/2017-10-28-Concurrency/Client Updates Issue.png
+thumbnail-img: /images/2017-10-28-Concurrency/Client Updates Issue.png
 comments: true
 ---
 

@@ -481,7 +481,7 @@ if (variableIdentifier.IsKind(SyntaxKind.None))
 **Note:**  As already stated for us to reach this code we would have to modify the `Foo()` example and replace `int x = Foo(input);` with potentially just `Foo(input);`
 {: .box-note}
 
-This is where we start using a very important class that helps us build our syntax: [`SyntaxFactory`](https://docs.microsoft.com/en-us/dotnet/api/microsoft.codeanalysis.csharp.syntaxfactory?view=roslyn-dotnet) and where we can use the `SyntaxVisualizer` and the [Roslyn Quoter](http://roslynquoter.azurewebsites.net/) to help us structure the new code.
+This is where we start using a very important class that helps us build our syntax: [`SyntaxFactory`](https://docs.microsoft.com/en-us/dotnet/api/microsoft.codeanalysis.csharp.syntaxfactory?view=roslyn-dotnet) and where we can use the `SyntaxVisualizer` and the [Roslyn Quoter](https://roslynquoter.azurewebsites.net/) to help us structure the new code.
 
 We initially create the `variableDeclarator` variable of type [`VariableDeclaratorSyntax`](https://docs.microsoft.com/en-us/dotnet/api/microsoft.codeanalysis.csharp.syntax.variabledeclaratorsyntax?view=roslyn-dotnet) using a new variable name we  dynamically build in `GetNewDeclaredVariableForExpression`.
 
