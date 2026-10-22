@@ -11,7 +11,7 @@ comments: true
 This is going to be a very short and simple post describing a very small
 feature based on an interesting gulp module.
 
-I stumbled upon some tutorials based around [socket.io](http://socket.io/) and
+I stumbled upon some tutorials based around [socket.io](https://socket.io/) and
 I found it fun and something new to learn and get into, so I followed and
 completed this [tutorial](http://danielnill.com/nodejs-tutorial-with-
 socketio/) which was quite interesting.
@@ -19,7 +19,7 @@ socketio/) which was quite interesting.
 After finishing that, I decided I wanted to explore
 [node.js](https://nodejs.org/en/) a bit more, but do it using the socket.io
 framework. So I found a tutorial on the socket.Io page which is about building
-a [chat application](http://socket.io/get- started/chat/).
+a [chat application](https://socket.io/get- started/chat/).
 
 The tutorial is very simple. It builds a very simple page and introduces some
 features of both node.js and socket.io. It also introduces
@@ -29,7 +29,7 @@ But nothing mentioned above is going to be the topic of this short post. While
 the tutorial is short and simple I wanted to follow it and build it in a very
 seamless way.
 
-I decided to introduce [gulp.js](http://gulpjs.com/) to streamline the
+I decided to introduce [gulp.js](https://gulpjs.com/) to streamline the
 development process, from modifying the node.js code, to working on the html,
 css and the javascript. I wanted to start a server and not have to refresh the
 page to see the changes I’ve done on the files.
@@ -289,7 +289,7 @@ notify the live server that something has changed.
 
 To resolve this we can take a look at the gulp-live-server documentation
 [here](https://www.npmjs.com/package/gulp-live-server#livereloadjs) we see
-that we need to add the [livereload.js](http://livereload.com/) script to the
+that we need to add the [livereload.js](https://livereload.com/) script to the
 page. 
 
 As the document states it can be done in 3 possible ways. I've opted out for

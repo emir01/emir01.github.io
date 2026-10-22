@@ -67,7 +67,7 @@ test output. This is very neat especially if you combine the output via
 Karma with some interesting reporters integrated into your CI solution.
 
 Read more about Jasmine and all the different features it provides
-[here!](http://jasmine.github.io/)
+[here!](https://jasmine.github.io/)
 
 ## So what is Karma?
 

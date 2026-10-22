@@ -3,7 +3,7 @@ layout: post
 tags: [angular, front, end, directives, hierarchy]
 title: Angular Hierarchy Data Directive
 author: emir_osmanoski
-headerimage: /images//2016-01-24-Tree-Data-Directive//01_CategoryTree.PNG
+thumbnail-img: /images/2016-01-24-Tree-Data-Directive/01_CategoryTree.PNG
 comments: true
 ---
 
@@ -535,7 +535,9 @@ Finally the *addChildToSelected* just adds a new category to the one currently
 selected. It's at this point for new items we generate the temporary id, which
 allows them to be properly selected within the widget controller.
 
-The example at work can be seen at this [this address!](http://treedirective.students.mk/)
+> **Update:** There used to be a live demo of this example at
+> treedirective.students.mk, but that site is no longer online. The example
+> code is still available in the GitHub repository linked below.
 
 # Summary & Code 
 

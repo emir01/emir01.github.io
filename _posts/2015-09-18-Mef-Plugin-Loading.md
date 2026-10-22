@@ -3,7 +3,7 @@ layout: post
 tags: [mef, plugins, assembly, loading, architecture, containers, catalogue]
 title: MEF and Dynamic Module/Plugin Loading
 author: emir_osmanoski
-headerimage: /images//2015-09-18-Mef-Plugin-Loading//01_PluginArchitecture_Head.png
+thumbnail-img: /images/2015-09-18-Mef-Plugin-Loading/01_PluginArchitecture_Head.png
 comments: true
 ---
 

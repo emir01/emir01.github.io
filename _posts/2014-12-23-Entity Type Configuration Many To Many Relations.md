@@ -3,7 +3,7 @@ layout: post
 category: programming
 title: Entity Type Configuration Fluent API for Many to many relations
 author: emir_osmanoski
-headerimage: /images//2014-12-23-EntityTypeConfigurations//header_image.png
+thumbnail-img: /images/2014-12-23-EntityTypeConfigurations/header_image.png
 comments: true
 ---
 
